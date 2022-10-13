@@ -1,6 +1,7 @@
 # gb-logo-convertor
 
 A simple image converter to create GB logo usable in GB Studio
+
 Use Python 3 and Image magick
 
 ## Installation
