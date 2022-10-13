@@ -1,9 +1,5 @@
 # gb-logo-convertor
 
-![normal-megumin](https://imgur.com/a/UvbVszT)
-![gb-megumin](https://imgur.com/a/EmzQcit)
-
-
 A simple image converter to create GB logo usable in GB Studio
 Use Python 3 and Image magick
 
