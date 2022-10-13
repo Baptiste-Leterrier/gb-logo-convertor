@@ -22,7 +22,6 @@ resim.putpalette(palette)
 resim.save('map.png')
 
 # Use Imagemagick to remap to palette saved above in 'map.png'
-# magick lion.png +dither -quantize Lab -remap map.png result.png
 subprocess.run(['magick', sys.argv[1], '+dither', '-quantize', 'Lab', '-remap', 'map.png','result.png'])
 # Resize image to 160x144 (remove ! to keep the image ratio)
 subprocess.run(['convert', 'result.png', '-resize', '160x144!', 'final.png'])
