@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python convertor.py <path/to/your/image>
 ```
 
-Your file will be named final.png and can then be imported in GB Studio
+Your file will be named final.png and can then be imported in GB Studio as a background
 
 ## Example
 ### Original picture
