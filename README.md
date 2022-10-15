@@ -19,3 +19,10 @@ python convertor.py <path/to/your/image>
 ````
 
 Your file will be named final.png and can then be imported in GB Studio
+
+## Example
+### Original picture
+![Louis de Funès](images/louis-de-funes.jpg)
+
+### Final render
+![Louis de Funès](images/final.png)
